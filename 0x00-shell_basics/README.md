@@ -1,1 +1,1 @@
-script that prints name of current woking directory
+script to display current working directory
