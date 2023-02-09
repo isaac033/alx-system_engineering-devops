@@ -1,1 +1,1 @@
-script to change to home directory
+script to list all hidden files in long format
