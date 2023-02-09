@@ -1,1 +1,1 @@
-script to display current working directory
+script to change to home directory
