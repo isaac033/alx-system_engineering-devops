@@ -1,1 +1,1 @@
-script to print current working directory
+script to list directories in long,idnumber and hidden files format
