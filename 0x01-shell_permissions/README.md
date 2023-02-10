@@ -1,1 +1,1 @@
-script to print all groups
+script to create hello file
