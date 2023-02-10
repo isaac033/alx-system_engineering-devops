@@ -1,1 +1,1 @@
-script to create hello file
+script to add execute permissions of file hello to owner
