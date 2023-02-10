@@ -1,1 +1,1 @@
-script to list all hidden files in long format
+script to print current working directory
