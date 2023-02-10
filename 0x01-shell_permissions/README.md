@@ -1,1 +1,1 @@
-change user to betty
+script to print all groups
