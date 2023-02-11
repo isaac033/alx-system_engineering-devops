@@ -1,1 +1,1 @@
-dir deletion
+dir delete
