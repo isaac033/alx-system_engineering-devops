@@ -1,1 +1,1 @@
-dir delete
+script to move to previous directory
