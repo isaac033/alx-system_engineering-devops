@@ -1,1 +1,1 @@
-script to move to previous directory
+script to print type of file
