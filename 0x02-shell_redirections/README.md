@@ -1,1 +1,1 @@
-script to display two files
+script to display first lines
